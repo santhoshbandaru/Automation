@@ -35,8 +35,8 @@ char auth[] = "89ef8e02c18b4493bb3d7be2175ee55b";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "minote";
-char pass[] = "12345678";
+char ssid[] = "wifi name";
+char pass[] = "password";
 
 void setup()
 {
