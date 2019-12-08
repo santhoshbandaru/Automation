@@ -27,7 +27,6 @@ digitalWrite(relay3, HIGH); //Switch relay3 off
 digitalWrite(relay4, HIGH); //Swtich relay4 off
 digitalWrite(relay5, HIGH);
 digitalWrite(relay6, HIGH);
-
 }
 void loop()
 {
